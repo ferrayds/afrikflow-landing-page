@@ -1,4 +1,6 @@
-# Nuxt Minimal Starter
+# AfrikFlow
+
+AfrikFlow landing page website
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
